@@ -10,9 +10,12 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, Supabase, AWS, Kubernetes** 🚢
+ 🌱 I’m currently learning **Docker, Supabase, AWS, Kubernetes** 🚢  
+ 🌐 Exploring **Microservices Architecture** and **Cloud Computing**
+ 
 
- 💬 Ask me about **Node.js, React, Next.js, Laravel, Vue.js, Python...** 💻
+ 💬 Ask me about **Node.js, React, Next.js, Laravel, PHP, Vue.js, Python...** 💻  
+ 🔧 Passionate about **Problem Solving** and **Optimizing Code**
 
 </div>
  
