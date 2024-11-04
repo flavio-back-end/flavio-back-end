@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS,kubernetes**
 
-💬 Ask me about **Node.js, React,next js laravel,vue js,pyhton... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React,next js laravel,vue js,pyhton...
 
 
  </div>
@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/flavio-back-end/flavio-back-end/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
